@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Diabetic Retinopathy using CNN**
+- 🔭 I’m currently working on **LLM-Driven Stock Market Sentimental and Predictive Analysis System.**
 
-- 🌱 I’m currently learning **Python, MongoDB, PowerBI**
+- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, SQL, PowerBI**
 
 - 💬 Ask me about **Python, Data Visualization, Deep Learning**
 
