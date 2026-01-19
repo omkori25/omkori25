@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 <p align="center">
 Hi 👋 I'm <b>Om Kori</b>, a Computer Science (AIML) student with a strong interest in data analysis, machine learning, and building data-driven systems.
@@ -19,7 +19,7 @@ Always learning, experimenting, and improving one project at a time.
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 <p align="left">
 <a href="https://instagram.com/om_1633">
@@ -35,7 +35,7 @@ Always learning, experimenting, and improving one project at a time.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -55,7 +55,7 @@ Always learning, experimenting, and improving one project at a time.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omkori25&theme=tokyonight&hide_border=true&show_icons=true"/>
