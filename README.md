@@ -21,7 +21,7 @@ Always learning, experimenting, and improving one project at a time.
 
 ## 🌐 Socials
 
-<p align="center">
+<p align="left">
 <a href="https://instagram.com/om_1633">
 <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
